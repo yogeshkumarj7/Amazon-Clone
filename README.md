@@ -21,14 +21,6 @@ The Amazon clone was built using the following technologies:
 - Heroicon: a library of icons for use in web applications
 - Redux: a predictable state container for JavaScript apps
 
-## Demo and Screenshots
-
-You can check out a live demo of the Amazon clone [here](https://mazon-clone.netlify.app/).
-
-![Amazon Clone](https://user-images.githubusercontent.com/114464208/235121180-214cbc39-1104-4294-90a4-046ccc597d8d.png)
-![Amazon Clone (2)](https://user-images.githubusercontent.com/114464208/235121677-d55fa58b-6454-4c9a-8d76-ccefff4597c1.png)
-![Amazon Clone (1)](https://user-images.githubusercontent.com/114464208/235121464-d78341a3-0eb3-421e-a36b-a35ef4049eee.png)
-
 
 ## Installation
 
@@ -44,10 +36,4 @@ npm start
 
 To use this project, simply browse the site and search for products. To add an item to your cart, click the "Add to Cart" button. To view your cart, click the cart icon in the top right corner of the page. To remove an item from your cart, click the "Remove" button next to the item.
 
-## Credits
 
-This project was built by mySelf.
-
-Thank you for checking out this Amazon clone! If you have any questions or feedback, feel free to reach out to us.
-
-date: 25 april 2023 day 134
